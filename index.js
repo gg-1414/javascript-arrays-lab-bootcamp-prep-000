@@ -12,3 +12,6 @@ function destructivelyRemoveLastKitten() {
   
 }
 
+function destructivelyRemoveFirstKitten() {
+  
+}
