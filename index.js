@@ -30,8 +30,6 @@ function prependKitten(name) {
   return newKittens;
 }
 
-var kittens = ["Milo", "Otis", "Garfield"];
-
 function removeLastKitten() {
   var newKittens = kittens.slice(2);
   return newKittens;
